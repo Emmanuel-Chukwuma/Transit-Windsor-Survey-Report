@@ -9,4 +9,4 @@ Data visuals challenge our preconceived notions and tell the story as it is, not
 
 👉 To view the full interactive report, click the link below. (Note: A Power BI account is required to sign in.)
 
-**Link**: (https://lnkd.in/dYrD9dV3)
+**Link**: https://app.powerbi.com/reportEmbed?reportId=9143c3af-1ebe-4963-95b4-e6df30e8cbd2&autoAuth=true&ctid=c986676f-9b39-4d08-b4f8-a668e0e8c6a5
